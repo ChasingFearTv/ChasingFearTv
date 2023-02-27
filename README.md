@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin  Rodriguez
 - 👀 I’m interested in CyberSecurity, Web Development and AI
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm getting addicted to coding <3
 
 <!---
 ChasingFearTv/ChasingFearTv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
